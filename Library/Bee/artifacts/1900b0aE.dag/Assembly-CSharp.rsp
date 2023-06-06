@@ -347,10 +347,14 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Scripts/AnswerScript.cs"
 "Assets/Scripts/FPPlayerCamera.cs"
 "Assets/Scripts/GameMenuManager.cs"
 "Assets/Scripts/KeyPressScene.cs"
 "Assets/Scripts/PressForInfo.cs"
+"Assets/Scripts/QuestionAndAnswers.cs"
+"Assets/Scripts/QuizManager.cs"
+"Assets/Scripts/unlockCursor.cs"
 -langversion:9.0
 
 /deterministic
